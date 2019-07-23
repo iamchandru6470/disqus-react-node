@@ -11,7 +11,6 @@ app.use(bodyParser.json());
 const router = express.Router();
 
 router.get('/posts', (req, res) => {
-  console.log(posts);
   res.send(posts);
 });
 
@@ -22,7 +21,6 @@ router.get('/loggedInuser', (req, res) => {
 
 router.post('/comment/:postId', (req, res) => {
   const idx = comments.findIndex(item => item.postId === req.params.postId);
-  console.log('index', idx);
   let postComments = {};
   if (idx > -1) {
     fetchedComments = [...comments];
