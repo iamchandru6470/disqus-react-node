@@ -1,0 +1,14 @@
+[
+  {
+    "id": "123",
+    "name": "Edward",
+    "profile": "E",
+    "email": "edward@disqus.com"
+  },
+  {
+    "id": "456",
+    "name": "Frank Henry",
+    "profile": "FH",
+    "email": "frank@disqus.com"
+  }
+]

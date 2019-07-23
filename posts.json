@@ -1,0 +1,19 @@
+[
+  {
+    "postId": "1234",
+    "userId": "123",
+    "title": "Why did modems have speakers?",
+    "content": "Everyone who used early telecommunications services, not to mention the early dial-up Internet services, is familiar with the tones and hissing sounds of a modem establishing a connection. I recall all my home computer modems, from the early 1980s 300 baud units through to the late 1990s 56K units all having speakers to provide this audible status/feedback during dialing and connecting. Indeed, it is one of the strongest memories surrounding telecommunications during those years.",
+    "comments": []
+  },
+  {
+    "postId": "436",
+    "userId": "123",
+    "title": "Killing a star safely",
+    "content": "Given unlimited resources, nearly magical scientific knowledge and enough time, how do we snuff out or obscure the light and heat of our Sun?",
+    "comments": [
+      { "id": "1", "comment": "Nice one!", "parent_id": null },
+      { "id": "2", "comment": "Nice two!", "parent_id": "1" }
+    ]
+  }
+]

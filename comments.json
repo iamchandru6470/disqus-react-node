@@ -1,0 +1,23 @@
+[
+  {
+    "postId": "436",
+    "comments": [
+      {
+        "id": "1",
+        "comment": "Absolutely nice!",
+        "parent_id": null,
+        "time": "2019-07-23T07:01:37.550Z"
+      },
+      {
+        "id": "2",
+        "comment": "Nice work",
+        "parent_id": "1",
+        "time": "2019-07-23T07:04:39.568Z"
+      }
+    ]
+  },
+  {
+    "postId": "1234",
+    "comments": []
+  }
+]
